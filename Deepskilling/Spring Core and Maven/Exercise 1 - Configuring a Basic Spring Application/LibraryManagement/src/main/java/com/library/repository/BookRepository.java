@@ -1,7 +1,7 @@
 package com.library.repository;
 
 public class BookRepository {
-    public void getBooks() {
-        System.out.println("Fetching books from database repository...");
+    public void saveBook() {
+        System.out.println("Book saved securely to the database.");
     }
 }
